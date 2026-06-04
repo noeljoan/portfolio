@@ -19,7 +19,7 @@ cd "D:\\Bewerbung\\Allgemeine Bewerbung DEFS\\portfolio"
 # Serve locally (Python http.server works on Windows)
 python -m http.server 8000
 ```
-Open **http://localhost:8000** in a browser.
+Open **http://https://noeljoan.github.io/portfolio/** in a browser.
 
 ## Deployment to GitHub Pages
 1. Create a new repository on GitHub (e.g., `username/portfolio`).
