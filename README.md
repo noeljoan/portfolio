@@ -1,6 +1,7 @@
 # Noël Joan – Modern Portfolio
 
 A single‑page portfolio showcasing the career of **Noël Joan**, Senior Technical Data & SAP Specialist.
+
 Open **https://noeljoan.github.io/portfolio/** in a browser.
 
 ## Features
