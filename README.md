@@ -62,4 +62,5 @@ portfolio/
 
 ## License
 Feel free to use this portfolio as a template. Adjust content, colors, or structure as needed.
+Dieses Projekt steht unter der MIT-Lizenz – siehe [LICENSE](LICENSE) Datei für Details.
 
